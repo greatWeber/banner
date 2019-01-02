@@ -1,2 +1,2 @@
 # banner
-the banner of fideOut
+the banner of fideOut(jquery)
